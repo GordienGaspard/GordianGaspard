@@ -2,12 +2,12 @@ Je suis Gaspard Gordien, J'ai étudié à l'IUT du Havre
 
 Je connais:
 
-java
+  java
 
-HTML
+  HTML
 
-sql
+  sql
 
-C
+  C
 
-PHP
+  PHP
